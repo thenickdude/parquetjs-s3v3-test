@@ -1,0 +1,12 @@
+{
+  "name": "parquetjs-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Nicholas Sherlock",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.17.0",
+    "parquetjs-lite": "https://github.com/entitycs/parquetjs.git#entitycs/openS3v3",
+    "s3rver": "^3.7.0"
+  }
+}
